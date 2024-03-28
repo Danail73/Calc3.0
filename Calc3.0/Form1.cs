@@ -16,5 +16,10 @@ namespace Calc3._0
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            //aa
+        }
     }
 }
