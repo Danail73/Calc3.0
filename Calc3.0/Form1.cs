@@ -21,5 +21,10 @@ namespace Calc3._0
         {
             //aa
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
